@@ -3,6 +3,8 @@ Rencana WPU
 -Javascript
   *ES6
   *Framework
+   ^Angular
+   ^React
 -Vlog
 -PHP Framework
--Struktur Data
+ *Laravel
