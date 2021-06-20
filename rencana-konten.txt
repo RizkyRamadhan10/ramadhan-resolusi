@@ -8,4 +8,3 @@ Rencana WPU
 -Vlog
 -PHP Framework
  *Laravel
--Struktur Data
