@@ -4,6 +4,7 @@ Rencana WPU
   *ES6
   *Framework
    ^Vue
+   ^React
 -Vlog
 -PHP Framework
  *Laravel
